@@ -1,0 +1,44 @@
+header > h1{ 
+	margin-right: 150px;
+}
+
+nav, ul, li
+ { 
+	display: inline;
+	padding:0px;
+}
+header >nav >ul >li >a {
+	font-size: 1.25em;
+	color:white;
+	background:black;
+	display:block;
+	padding:8px 8px;
+	text-align: center;
+	text-decoration: none;
+	margin-right: 1px;
+}
+
+li {
+	float:left;
+	width: 25%; 
+	margin: 0 ;
+
+
+}
+/*hover state*/
+li> a:hover{
+	color:black;
+	background-color: white ;
+}
+
+.clearfix:before,.clearfix:after{
+	content: " ";
+	display:table;
+	clear: both;
+
+}
+
+.tennis-stroke{
+	width:25%; margin-right: 30px;
+
+}

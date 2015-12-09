@@ -1,0 +1,11 @@
+#robot{
+width:212px; 
+height:377px;
+}
+
+.black-border{
+	border:10px solid green;
+}
+li {
+	width: 25%;
+}
