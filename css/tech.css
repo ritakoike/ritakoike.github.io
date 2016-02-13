@@ -9,3 +9,7 @@ height:377px;
 li {
 	width: 25%;
 }
+.media-wrap {
+	width:30%;
+	display:inline;
+}
