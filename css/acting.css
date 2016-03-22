@@ -1,7 +1,8 @@
 #guysAndDolls {
 	background-color:grey;
 }
-
+h2 {background-color: red;
+}
 .photos {
 	width:360px;
 	height:480px;

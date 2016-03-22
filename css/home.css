@@ -2,7 +2,19 @@ body {
 	background-color: skyblue; 
 	background-image: url("http://geology.com/world/world-map.gif");
     background-size: cover;
-}
-p {background-color: white;
 
+}
+p {
+	color: black;
+    text-align: center;
+}
+h1 {
+	text-align: center;
+	background-color:black;
+	color:white;
+	padding: 10px 10px;
+	
+}
+h2 {
+	text-align: center;
 }

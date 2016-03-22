@@ -1,4 +1,5 @@
-
+h2{background-color: white;
+}
 
 .tennis-photos{
 	width: 180px;
@@ -9,3 +10,7 @@
 	  width: 180px;
 	  height: 225px;
 	}
+body{
+	background-image: url("http://thecourtstore.com/img/cms/linesfinished.jpg");
+	background-size: cover;
+}
