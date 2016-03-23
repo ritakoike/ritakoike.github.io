@@ -11,6 +11,11 @@ h2{background-color: white;
 	  height: 225px;
 	}
 body{
-	background-image: url("http://thecourtstore.com/img/cms/linesfinished.jpg");
+	background-image: url("http://www.pixilix.com/uploads/2014/3/13/1319142www-pixilix-com.JPG");
 	background-size: cover;
+}
+
+section{
+	background-color: rgba(255, 255, 255, .75);
+
 }
