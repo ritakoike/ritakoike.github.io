@@ -1,5 +1,5 @@
 header > h1{ 
-	margin-right: 150px;
+	/*margin-right: 150px;*/
 }
 
 nav, ul, li
@@ -41,4 +41,7 @@ li> a:hover{
 .tennis-stroke{
 	width:25%; margin-right: 30px;
 
+}
+nav> a:visited{
+	color:white;
 }
