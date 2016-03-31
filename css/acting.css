@@ -8,3 +8,6 @@ h2 {background-color: red;
 	height:480px;
 
 }
+img,video {
+	margin: 30px;    
+}

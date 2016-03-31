@@ -13,3 +13,7 @@ li {
 	width:30%;
 	display:inline;
 }
+
+img,video {
+	margin: 8px;
+}
